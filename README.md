@@ -27,4 +27,5 @@ http://securitysynapse.blogspot.com/2020/10/fun-with-microsoft-power-bi-part-iii
 8. Once in the Power BI Service (Online), under MyWorkspaces > Datasets > Schedule Refresh
 
 ## Screenshots
-TBD
+![Threats Report](https://github.com/TonyLeeVT/BlackBerryProtectTDR-PowerBIViewer/blob/main/screenshots/ThreatsReport.png)
+![Policy Explorer](https://github.com/TonyLeeVT/BlackBerryProtectTDR-PowerBIViewer/blob/main/screenshots/PolicyExplorer.png)
