@@ -1,5 +1,5 @@
 # BlackBerryProtectTDR-PowerBIViewer
-Power BI Reports using BlackBerry Protect Threat Data Report data feeds.
+Power BI Reports using BlackBerry Protect Threat Data Report data feeds. This Power BI Template includes reports for Event, Threat, Memory Protection, Devices, Policies, and External (USB) devices. This report can be shared with others in your organization and schedule to automatically download the TDR data once per day.
 
 
 ## Background
