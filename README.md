@@ -9,7 +9,7 @@ http://securitysynapse.blogspot.com/2020/10/fun-with-microsoft-power-bi-part-ii.
 http://securitysynapse.blogspot.com/2020/10/fun-with-microsoft-power-bi-part-iii.html
 
 
-## Prerequisite
+## Prerequisites
 1. Microsoft Power BI Desktop
 2. Microsoft Power BI Service (Online) to share report and schedule updates
 
@@ -22,9 +22,9 @@ http://securitysynapse.blogspot.com/2020/10/fun-with-microsoft-power-bi-part-iii
 5. Ensure reports are populated and working properly
 
 (Optional sharing and auto updating)  
-6. Click Publish button (to your own workspace if you wish to keep it private)
-7. You will be asked to save a local copy (.pbix) with the data
-8. Once in the Power BI Service (Online), under MyWorkspaces > Datasets > Schedule Refresh
+6. Click Publish button (to your own workspace if you wish to keep it private)  
+7. You will be asked to save a local copy (.pbix) with the data  
+8. Once in the Power BI Service (Online), under MyWorkspaces > Datasets > Schedule Refresh  
 
 ## Screenshots
 ![Threats Report](https://github.com/TonyLeeVT/BlackBerryProtectTDR-PowerBIViewer/blob/main/screenshots/ThreatsReport.png)
